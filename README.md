@@ -5,11 +5,12 @@
 - Tenho muito interesse em programação e desenvolvimento e estou sempre fazendo cursos quando vejo alguma oportunidade
 
 
-###Conecte-se comigo!
+### Conecte-se comigo!
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/kamila-maluza-ceola-389128253)
 
-###Linguagens e Ferramentas
+### Linguagens e Ferramentas
+
 ![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Skills](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
