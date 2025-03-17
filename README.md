@@ -16,6 +16,6 @@
 ![Skills](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Skills](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
 )
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kamimzc GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamimzc&show_icons=true&theme=radical)
 
