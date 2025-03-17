@@ -1,8 +1,10 @@
 
 ### Olá! Me chamo Kamila Ceola e seja bem vindo ao meu perfil! 🙋🏻‍♀️ 
 
-- Estou atualmente cursando a faculdade de analise e desenvolvimento de sistemas
-- Tenho muito interesse em programação e desenvolvimento e estou sempre fazendo cursos quando vejo alguma oportunidade
+- I am currently studying systems analysis and development at university
+- I am very interested in programming and development and I am always taking courses when I see an opportunity
+
+- I currently work at Construtora Patriani and I am a Young Apprentice.
 
 
 ### Conecte-se comigo!
