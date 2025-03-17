@@ -1,7 +1,7 @@
 
 ### Hello! My name is Kamila Ceola and welcome to my profile!🙋🏻‍♀️ 
 
-- I am currently studying systems analysis and development at university
+- I am currently studying the 2nd semester of Systems Analysis and Development at Fundação Santo André University.
 - I am very interested in programming and development and I am always taking courses when I see an opportunity
 
 - I currently work at Construtora Patriani and I am a Young Apprentice.
