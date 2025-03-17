@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Kamila Ceola e seja bem vindo ao meu perfil! 🙋🏻‍♀️ 
+### Hello! My name is Kamila Ceola and welcome to my profile!🙋🏻‍♀️ 
 
 - I am currently studying systems analysis and development at university
 - I am very interested in programming and development and I am always taking courses when I see an opportunity
@@ -7,11 +7,11 @@
 - I currently work at Construtora Patriani and I am a Young Apprentice.
 
 
-### Conecte-se comigo!
+### Connect with me!
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/kamila-maluza-ceola-389128253)
 
-### Linguagens e Ferramentas
+### Languages ​​and Tools
 
 ![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
