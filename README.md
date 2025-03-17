@@ -20,8 +20,7 @@
 )
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-![Power Automate](https://www.google.com/imgres?q=power%20automate&imgurl=https%3A%2F%2Fcdn-public.softwarereviews.com%2Fproduction%2Flogos%2Fofferings%2F7351%2Foriginal%2Fmicrosoft_power_automate_logo.png%3F1710966766&imgrefurl=https%3A%2F%2Fhr.mcleanco.com%2Fsoftware-reviews%2Fproducts%2Fmicrosoft-power-automate%3Fc_id%3D404&docid=edWJvgmtbOOUJM&tbnid=hVpMktFvVmhPzM&vet=12ahUKEwiT1JPbrJGMAxXqrJUCHcBTJ3QQM3oECCcQAA..i&w=800&h=366&hcb=2&ved=2ahUKEwiT1JPbrJGMAxXqrJUCHcBTJ3QQM3oECCcQAA)
-<code><img height="30" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png](https://www.google.com/imgres?q=power%20automate&imgurl=https%3A%2F%2Fcdn-public.softwarereviews.com%2Fproduction%2Flogos%2Fofferings%2F7351%2Foriginal%2Fmicrosoft_power_automate_logo.png%3F1710966766&imgrefurl=https%3A%2F%2Fhr.mcleanco.com%2Fsoftware-reviews%2Fproducts%2Fmicrosoft-power-automate%3Fc_id%3D404&docid=edWJvgmtbOOUJM&tbnid=hVpMktFvVmhPzM&vet=12ahUKEwiT1JPbrJGMAxXqrJUCHcBTJ3QQM3oECCcQAA..i&w=800&h=366&hcb=2&ved=2ahUKEwiT1JPbrJGMAxXqrJUCHcBTJ3QQM3oECCcQAA)"></code>
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)](https://make.powerautomate.com/)
 
 
 ![Kamimzc GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamimzc&show_icons=true&theme=radical)
