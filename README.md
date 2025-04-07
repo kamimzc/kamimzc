@@ -4,8 +4,6 @@
 - I am currently studying the 2nd semester of Systems Analysis and Development at Fundação Santo André University.
 - I am very interested in programming and development and I am always taking courses when I see an opportunity
 
-- I currently work at Construtora Patriani and I am a Young Apprentice.
-
 
 ### Connect with me!
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
