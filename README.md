@@ -8,8 +8,8 @@
 ### Connect with me!
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/kamila-maluza-ceola-389128253) 
-[![Social]([https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white
-))](https://www.salesforce.com/trailblazer/co8f0kyp35147u6loe)
+[![Social](https://a.sfdcstatic.com/shared/images/c360-nav/salesforce-with-type-logo.svg](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white
+)](https://www.salesforce.com/trailblazer/co8f0kyp35147u6loe)
 
 
 ### Languages ​​and Tools
