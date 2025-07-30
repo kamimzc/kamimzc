@@ -1,13 +1,14 @@
 
 ### Hello! My name is Kamila Ceola and welcome to my profile!🙋🏻‍♀️ 
 
-- I am currently studying the 2nd semester of Systems Analysis and Development at Fundação Santo André University.
-- I am very interested in programming and development and I am always taking courses when I see an opportunity
+- I am currently studying the 3nd semester of Systems Analysis and Development at Fundação Santo André University.
+- I'm studying Agentforce and Salesforce, and every day I fall more in love with this technology.
 
 
 ### Connect with me!
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](www.linkedin.com/in/kamila-maluza-ceola-389128253)
+)](www.linkedin.com/in/kamila-maluza-ceola-389128253(https://www.salesforce.com/trailblazer/co8f0kyp35147u6loe)
+
 
 ### Languages ​​and Tools
 
