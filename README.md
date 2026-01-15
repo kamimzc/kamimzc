@@ -23,5 +23,5 @@
 [![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)](https://make.powerautomate.com/)
 
 
-![Kamimzc GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamimzc&show_icons=true&theme=radical)
+![Kamimzc GitHub status](https://github-readme-stats.vercel.app/api?username=Kamimzc&show_icons=true&theme=radical)
 
